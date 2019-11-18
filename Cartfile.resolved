@@ -1,1 +1,1 @@
-github "SnapKit/SnapKit" "4.2.0"
+git "../SnapKit" "5.0.1"
